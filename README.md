@@ -1,5 +1,5 @@
 # Employee-leave-management-system.
-# Employee Leave Management System (ELMS) - MySQL Capstone Project
+# Employee Leave Management System (ELMS) 
 
 **A centralized SQL relational database database solution featuring automated leave tracking, multi-level manager approval history, safe transactional routines, and complex analytics reporting.**
 
